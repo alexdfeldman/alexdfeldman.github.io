@@ -1,9 +1,10 @@
 body {
   font-family: 'lucida sans unicode', lucida grande, sans-serif;
   font-weight: 300;
-  background: url(betsybackground.jpg) repeat;
+  background: url(wood.jpg) repeat;
                 background-position: center center;
                 background-attachment: fixed;
+                color:white;
 }
 
 #wrapper {
@@ -25,4 +26,22 @@ img{
 }
 .jumbotron {
   background-color: #535C5F;
+}
+h1{
+                color:white;
+}
+
+h2{
+  color:white;
+}
+
+h3{
+  color:white;
+}
+
+h4{color:white;
+}
+
+li{
+  color:white;
 }
